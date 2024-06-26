@@ -1,1 +1,1 @@
-# Machine-Learning-course
+# Machine-Learning-logistic_regression
